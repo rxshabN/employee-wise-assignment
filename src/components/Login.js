@@ -31,7 +31,7 @@ const Login = () => {
       <div className="max-w-md w-full space-y-8 bg-white shadow-2xl rounded-xl p-8 border border-gray-200">
         <div className="text-center">
           <h2 className="mt-6 text-3xl font-extrabold text-gray-900 tracking-tight">
-            EmployWise
+            Employee Wise Assignment
           </h2>
           <p className="mt-2 text-sm text-gray-600">
             Sign in to manage your team
